@@ -12,7 +12,7 @@
 * **Nome:** Francisco Llmeida
 * **Curso:**  Análise e Desenvolvimento de Sistemas
 
-* **E-mail:**francisco.almeida@sempreceub.co
+* **E-mail:**francisco.almeida@sempreceub.com
 
 
 ###  Biografia Acadêmica
