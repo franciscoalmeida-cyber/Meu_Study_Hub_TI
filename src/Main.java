@@ -42,7 +42,7 @@ public  class Main {
 
         for(String nome: nomes){
 
-            System.out.println(nome+44);
+            System.out.println(nome);
 
 
         }
